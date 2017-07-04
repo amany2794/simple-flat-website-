@@ -1,0 +1,495 @@
+body{
+        font-family:Impact;
+        background-color:black;
+       
+        line-height: 1.75;
+}
+.container{
+    font-size: 15px;
+}
+
+.about{
+            background-color:dimgrey;
+            height: 600px;
+            color: black;
+        background-image: url(images/group8_basedesign_featured-1700x1206.jpg);
+        
+
+
+}
+
+.projects{
+    background-color:darkslategray;
+    height: 500px;
+    margin-top: 25px;
+
+    
+}
+a{
+    color: white;
+    font-size: 12px;
+    margin: 10px;
+    
+}
+
+
+.navbar-static{
+    padding-top: 65px;
+
+}
+
+.bottom{
+    height:300px;
+    background-color: black;
+    color: lightgray;
+}
+#logo{
+    width: 180px;
+    height: 180px;
+    margin-left: 200px;
+    margin-top:180px;
+    padding: 0px;
+    display: inline-block;
+    padding: 10px;
+}
+#aboutContent{
+    margin-left: 60px;
+    margin-top: 110px;
+    
+}
+#nav{
+    margin-right: 50px;
+}
+
+#img1{
+     height: 500px;
+    width: 1140px;
+}
+
+#img2{
+    
+     height: 500px;
+    width: 1140px;
+}
+#img3{
+     height: 500px;
+    width: 1140px;
+}
+#serviceDiv{
+    height: 550px;
+   background-image: linear-gradient( rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75) ),url(images/background2.jpg);
+    background-repeat:round;
+
+}
+
+
+.sideDiv{
+    display:inline-block;
+}
+
+
+
+.circle{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    margin: 25px;
+    background-color: black;
+    border-radius: 50%;
+    opacity:0.25;
+    border-width: thin;
+    border-color: grey;
+    border-style: solid;
+    margin-bottom: 1px;
+    color: black;
+    border-bottom-width: 1px;
+    
+}
+.ccontainer{
+    display:inline-block;
+    
+}
+span{
+    font-size: 14px;
+   
+
+}
+
+#nav{
+    font-size: 12px;
+}
+.Icon{
+    color: white;
+    font-size: 35px;
+    margin-left:60px;
+    margin-top: 50px;
+}
+#ourservices{
+    color:white;
+    text-align: center;
+    font-size:35px;
+    padding-top: 20px;
+}
+
+
+#servicecontainer{
+
+    padding-left: 130px;
+    padding-top: 60px;
+    
+}
+#line{
+    height: 5px;
+    width:100px;
+    background-color: white;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+.content{
+        display: inline-block;
+        color: #284382;
+        align-items: center;
+        padding-left: 60px;
+        
+
+}
+.context{
+    padding-left: 40px;
+    color: white;
+    font-family: serif;
+         display: inline-block;
+        align-items: center;
+}
+#staff{
+background-image: linear-gradient( rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75) ),url(images/city_skyscraper_usa_building_structure_58849_2560x1024.jpg);
+    height: 600px;
+    width: 1140px;
+    background-repeat: round;
+    
+}
+#staff1{
+    background-color:white;
+    height: 460px;
+    width:250px;
+    margin-top: 30px;
+}
+#staffdiv1{
+    background-color: white;
+    height: 200px;
+    margin-top: 10px;
+}
+#staffdiv2{
+      background-color: white;
+    height: 200px;
+    margin-top: 10px;
+}
+#staffdiv3{
+          background-color: white;
+            height: 400px;
+          margin-top: 30px;
+    
+}
+#staff2{
+    background-color:white;
+    height: 460px;
+    width:250px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+#staff3{
+   
+    background-color:white;
+    height: 460px;
+    width:250px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+#ourstaff{
+    color:white;
+    text-align: center;
+    font-size:35px;
+    padding-top: 20px;}
+#line2{
+    
+    height: 5px;
+    width:100px;
+    background-color: white;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+#staffdiv4{
+      background-color: white;
+            height: 300px;
+          margin-top: 30px;
+}
+#staff4{
+    
+      background-color:white;
+    height: 360px;
+    width:250px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.staffdiv5{
+      background-color: white;
+            height: 130px;
+          margin-top: 10px;
+    
+}
+
+#ceop{
+    color: white;
+    font-size: 13px;
+    margin-left: 60px;
+    display: inline-block;
+    
+}
+#staffbg{
+    background-image: url(images/Untitled-1.png);
+    width:100%;
+    height: 1010px;
+    background-repeat: round;
+    margin-top: 0px;
+}
+.person{
+    height: 100px;
+    width:100px;
+    border-radius:50%;
+    margin-left: 85px;
+    margin-top: 10px;
+    display: inline-block;
+}
+#ceo{
+    color:white;
+    font-size: 35px;
+    margin-left: 110px;
+    display: inline-block;
+}
+#mktgimg{
+    height: 90px;
+    width:90px;
+    border-radius:50%;  
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+#aboutbg{
+    height: 600px;
+    width:1100px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+#mktg{ 
+    color: black;
+    font-size: 20px;
+    margin-left: 30px;
+    display: inline-block;
+    margin-top: 90px;
+    
+}
+#staff1{
+    height: 400px;
+    width: 300px;
+    color: white;
+    background-color: rgba(51, 122, 183, 0.18);
+    margin-top: 50px;
+    border-width: 15px;
+    border-width: 50px;
+}
+#staff1bg{
+    height: 370px;
+    width: 270px;
+    margin-top: 15px;;
+    background-color: rgba(128, 128, 128, 0.21);;
+    
+}
+#staff2{
+    height: 300px;
+    width: 500px;
+    color: white;
+    background-color: rgba(51, 122, 183, 0.18);
+    margin-top: 180px;
+    border-width: 15px;
+    border-width: 50px;
+}
+#staff2bg{
+    
+    height: 270px;
+    width: 470px;
+    margin-top: 15px;;
+    background-color: rgba(128, 128, 128, 0.21);;
+}
+
+#ceocontent{
+    margin-left: 10px;
+}
+#projectmngr{
+    color: white;
+    font-size: 25px;
+    margin-left:30px;
+    display: inline-block;
+    
+}
+#projectp{
+ margin-left: 10px;
+margin-top: 20px;
+}
+#staff3bg{
+    
+    height: 420px;
+    width: 220px;
+    margin-top: 15px;;
+    background-color: rgba(128, 128, 128, 0.21);
+}
+#staff3{
+    
+    height: 450px;
+    width: 250px;
+    color: white;
+    background-color: rgba(51, 122, 183, 0.18);
+   
+}
+#mktgmngr{
+    
+    color: white;
+    font-size: 25px;
+    margin-left:5px;
+    display: inline-block;
+}
+#person3{
+    
+    height: 100px;
+    width:100px;
+    border-radius:50%;
+    margin-top: 10px;
+    display: inline-block;
+    margin-left: 60px;
+}
+#mktgp{
+    
+    margin-left: 10px;
+}
+#projectp{
+    margin-left: 20px;
+}
+#contactDiv{
+    width: 1140px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    height: 500px;
+    font-family: cursive;
+background-image: linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25) ),url(images/world_map_wallpaper_free_download_2.jpg);
+    background-repeat: round;
+    
+    
+}
+#horzline{
+    width:2px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 600px;
+    background-color: yellow;
+}
+#background{
+    width: 1100px;
+    height: 400px;
+    margin: auto;
+    
+}
+#staticnav{
+    display: inline-block;
+}
+.stat{
+    background-color: yellow;
+    width:100px;
+    height:30px;
+    margin-top: 0px;
+    margin-left: 1210px;
+    font-size: 10px;
+    color: beige;
+    font-size: 10px;
+    margin-top: 10px;
+    
+    
+}
+#blue{
+    background-color: rgba(0, 0, 255, 0.15);
+}
+#green{
+    background-color: #2196F3;;
+}
+#yellow{
+        background-color:rgba(96, 125, 139, 0.53);
+
+}
+#gray{
+    background-color: gray;
+}
+ul
+{
+    list-style-type: none;
+}
+#contact_form{
+    display: inline-block;
+    margin-left: 100px;
+}
+#contactus{
+    font-size: 35px;
+    color: white;
+    display: inline-block;
+    margin-left: 480px;
+    font-family: impact;
+}
+#contactline{
+    width: 140px;
+    height: 2px;
+    background-color:aliceblue; 
+    margin-left: 500px;
+}
+#white{
+    background-color: crimson;
+}
+.input{
+    background-color: rgba(51, 122, 183, 0.22);
+    width: 500px;
+    border-color: rgba(59, 255, 228, 0.13);
+    margin: 5px 5px;
+}
+
+
+
+.label{
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+
+#submit_button{
+    border-radius: 50%;
+    width: 80;
+    height: 80;
+    margin-left: 190px;
+    background-color: rgba(119, 119, 119, 0.16);
+    border-color: gray;
+    color: white;
+    font-size: 20px;
+}
+#follow{
+    display: inline-block;
+    width:220px;
+}
+.sm{
+    width: 20px;
+    height:20px;
+    border-radius: 50px;
+}
+#xy{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+#parentdiv{
+    position: fixed;
+    visibility:hidden;
+    display: inline-block;
+}
